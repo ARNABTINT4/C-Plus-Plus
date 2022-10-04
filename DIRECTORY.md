@@ -1,5 +1,5 @@
 
-## Backtracking
+    ## Backtracking
   * [Graph Coloring](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/backtracking/graph_coloring.cpp)
   * [Knight Tour](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/backtracking/knight_tour.cpp)
   * [Magic Sequence](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/backtracking/magic_sequence.cpp)
@@ -13,14 +13,14 @@
   * [Sudoku Solver](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/backtracking/sudoku_solver.cpp)
   * [Wildcard Matching](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/backtracking/wildcard_matching.cpp)
 
-## Bit Manipulation
+    ## Bit Manipulation
   * [Count Bits Flip](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/bit_manipulation/count_bits_flip.cpp)
   * [Count Of Set Bits](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/bit_manipulation/count_of_set_bits.cpp)
   * [Count Of Trailing Ciphers In Factorial N](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/bit_manipulation/count_of_trailing_ciphers_in_factorial_n.cpp)
   * [Hamming Distance](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/bit_manipulation/hamming_distance.cpp)
   * [Set Kth Bit](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/bit_manipulation/set_kth_bit.cpp)
 
-## Ciphers
+   ## Ciphers
   * [A1Z26 Cipher](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/ciphers/a1z26_cipher.cpp)
   * [Atbash Cipher](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/ciphers/atbash_cipher.cpp)
   * [Base64 Encoding](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/ciphers/base64_encoding.cpp)
@@ -33,10 +33,10 @@
   * [Vigenere Cipher](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/ciphers/vigenere_cipher.cpp)
   * [Xor Cipher](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/ciphers/xor_cipher.cpp)
 
-## Cpu Scheduling Algorithms
+    ## Cpu Scheduling Algorithms
   * [Fcfs Scheduling](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/cpu_scheduling_algorithms/fcfs_scheduling.cpp)
 
-## Data Structures
+    ## Data Structures
   * [Avltree](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/data_structures/avltree.cpp)
   * [Binary Search Tree](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/data_structures/binary_search_tree.cpp)
   * [Binary Search Tree2](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/data_structures/binary_search_tree2.cpp)
